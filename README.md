@@ -43,3 +43,4 @@ pip install pytest
 pytest
 ```
 ## Автор
+![](https://img08.rl0.ru/afisha/e1200x800i/daily.afisha.ru/uploads/images/2/b2/2b2e08b175e4cb5f143daf2bda7658a0.png)
